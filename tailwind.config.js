@@ -4,7 +4,13 @@ module.exports = {
     './components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        rye: "'Rye', cursive",
+        poiret: "'Poiret One', cursive",
+        puppies: "'Puppies Play', cursive",
+      }
+    },
   },
   plugins: [],
 }
