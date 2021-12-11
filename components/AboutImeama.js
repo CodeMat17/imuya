@@ -68,7 +68,7 @@ function AboutImeama() {
                             <li>Umu Chifu</li>
                             <li>Umu Onovo</li>
                             <li>Umu Egbonu</li>
-                            <li className="text-red-500">List will be updated soon.</li>
+                            <li className="text-red-500">List will be updated soon...</li>
                         </ul>
                         <p className="font-bold text-purple-600 tracking-widest mt-8">
                             Families in Ihu-akpalata.
@@ -78,7 +78,7 @@ function AboutImeama() {
                             <li>Umu Chi</li>
                             <li>Umu Njoku na Ugama</li>
                             <li>Umu Nvutaife</li>
-                            <li className="text-red-500">List will be updated soon.</li>
+                            <li className="text-red-500">List will be updated soon...</li>
                         </ul>
                     </div>
                 </div>
