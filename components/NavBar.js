@@ -12,9 +12,15 @@ function NavBar() {
     return (
         <nav className="w-full fixed top-0 z-50 bg-white shadow-xl py-2 sm:py-4">
             <div className="px-4 flex items-center justify-between">
-                <h1 className="font-rye sm:text-xl md:text-2xl text-purple-600 font-bold tracking-wider">
-                    IMUYA
-                </h1>
+                <div className="flex items-center space-x-2">
+                    <div className="border rounded-full w-8 h-8 shadow-xl shadow-purple-500 flex items-center justify-center">
+                        <h1 className="text-xs">logo</h1>
+                    </div>                    
+                    <h1 className="font-rye sm:text-xl md:text-2xl text-purple-600 font-bold tracking-wider">
+                        IMUYA
+                    </h1>
+                </div>
+                
                 <button onClick={toggleMenu} className={`sm:hidden shadow-md shadow-purple-600 border p-1 outline-none rounded-md ${!isOpen ? '' : 'bg-purple-600'}`}>
                     <svg xmlns="http://www.w3.org/2000/svg" className="h-8 w-8 text-purple-600" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                         <path className={`${!isOpen ? '' : 'hidden'}`} strokeLinecap="round" strokeLinejoin="round" strokeWidth="3" d="M4 6h16M4 12h16m-7 6h7" />
