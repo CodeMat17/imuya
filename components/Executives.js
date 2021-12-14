@@ -137,7 +137,7 @@ function Executives() {
                                 <p>Social Media Director 1</p>
                             </div>
                     </div>
-                    <div className="w-sm max-w-md mx-auto mt-8 px-6 space-y-32 rounded-lg border shadow-xl shadow-purple-300">
+                    <div className="w-full max-w-md mx-auto mt-8 px-6 space-y-32 rounded-lg border shadow-xl shadow-purple-300">
                         <div className="relative">
                             <div className="absolute w-36 h-36 bg-white border-l border-purple-600 rounded-full -left-8 -top-8 flex items-center justify-center shadow-md">
                                 <div className="w-32 h-32 rounded-full">
@@ -150,7 +150,7 @@ function Executives() {
                                 <p>Social Media Director 2</p>
                             </div>
                     </div>
-                    <div className="w-sm max-w-md mx-auto mt-8 px-6 space-y-32 rounded-lg border shadow-xl shadow-purple-300">
+                    <div className="w-full max-w-md mx-auto mt-8 px-6 space-y-32 rounded-lg border shadow-xl shadow-purple-300">
                         <div className="relative">
                             <div className="absolute w-36 h-36 bg-white border-l border-purple-600 rounded-full -left-8 -top-8 flex items-center justify-center shadow-md">
                                 <div className="w-32 h-32 rounded-full">
@@ -159,7 +159,7 @@ function Executives() {
                             </div>
                         </div>
                         <div className="p-4 text-center">
-                                <p>XXXXXX XXXXXXXXX</p>
+                                <p>XXXXXX XXXXXXXXX.</p>
                                 <p>Social Media Director 3</p>
                             </div>
                     </div>
