@@ -13,7 +13,7 @@ function NavBar() {
         <nav className="w-full fixed top-0 z-50 bg-white shadow-xl py-2 sm:py-4">
             <div className="px-4 flex items-center justify-between">
                 <div className="flex items-center space-x-2">
-                    <div className="border rounded-full w-8 h-8 shadow-xl shadow-purple-500 flex items-center justify-center">
+                    <div className="border rounded-full w-8 h-8 shadow-lg shadow-purple-500 flex items-center justify-center">
                         <h1 className="text-xs">logo</h1>
                     </div>                    
                     <h1 className="font-rye sm:text-xl md:text-2xl text-purple-600 font-bold tracking-wider">
