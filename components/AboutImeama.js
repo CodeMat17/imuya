@@ -59,7 +59,7 @@ function AboutImeama() {
                             THE COMPOSITION OF IMEAMA
                         </p>
                         <p>
-                            Imeama is made up of Ihu-eke and Ihu-akpalata villages.
+                            Imeama is made up of Ihu-eke and Ihu-akpalata sub-villages.
                         </p>
                         <p className="font-bold text-purple-600 tracking-widest mt-8">
                             Families in Ihu-eke
