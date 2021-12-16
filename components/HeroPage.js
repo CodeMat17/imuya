@@ -9,7 +9,7 @@ function HeroPage() {
               sm:[clip-path:circle(100%_at_20%_30%)]">
                   <div className="absolute inset-0 bg-gradient-to-tr from-lime-400 to-purple-500 blur-xl h-64"></div>
                 <h3 className="relative text-xl md:text-2xl text-black font-semibold tracking-wider">
-                    This is the official page of the
+                    This is the official website of the
                 </h3>
                 <h1 className="relative font-rye text-3xl md:text-4xl md:px-12 text-black font-semibold tracking-wider">
                     Imeama Mkpumonu United Youths Assembly.
